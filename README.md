@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="badges">
   <a href="https://t.me/Al3xandrr">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -10,3 +8,7 @@
   
 <img src="https://komarev.com/ghpvc/?username=4lexandrr&style=flat-square&color=blue" alt=""/>
 
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
