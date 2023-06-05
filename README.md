@@ -7,3 +7,6 @@
   <a href="https://vk.com/4lexandrrr">
     <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
 </div>
+  
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
